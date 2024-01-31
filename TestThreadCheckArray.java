@@ -8,7 +8,7 @@ public class TestThreadCheckArray {
 			int num  = input.nextInt();
 			int [] array = new int[num];
 			System.out.println("Enter numbers fore array");
-			
+			sxced
 			for (int index = 0; index < num; index++) 
 				array[index] = input.nextInt();
 			
